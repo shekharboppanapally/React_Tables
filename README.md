@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# This App is deployed here
-react tables
+# This App is deployed [here](https://shekharboppanapally.github.io/react_tables/)
+
 
 ## Available Scripts
 
